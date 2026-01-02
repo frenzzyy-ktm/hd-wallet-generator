@@ -1,0 +1,13 @@
+{
+  "name": "evm-wallet-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "dotenv": "^16.3.1"
+  }
+}
